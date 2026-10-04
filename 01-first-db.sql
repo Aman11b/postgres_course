@@ -1,8 +1,8 @@
 -- never use it on porduction only for learning
-DROP DATABASE IF EXISTS postgresql_part1;
+DROP DATABASE IF EXISTS postgresql;
 
 -- create new DB inside ur server
-CREATE DATABASE postgresql_part1
+CREATE DATABASE postgresql
 
 -- -> Connect to the existing postgres database, then execute this SQL script.
 
