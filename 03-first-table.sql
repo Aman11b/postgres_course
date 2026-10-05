@@ -39,3 +39,6 @@ VALUES
 -- postgresql=> SELECT * from basics.students;
 
 SELECT * FROM basics.students;
+
+
+--  sudo su - postgres -c "psql -d postgresql -f ./03-first-table.sql"
